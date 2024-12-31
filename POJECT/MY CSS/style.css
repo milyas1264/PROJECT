@@ -1,0 +1,16 @@
+
+*{margin: 0; padding: 0;}
+
+body{
+    background-color: #075197;
+    font-family: Arial, sans-serif;
+    color: rgb(11, 112, 143);}
+  #navbar{
+    background-color: #0f1111;
+    height: 60px;  padding: 30px 0 0 0;text-align: center;
+    border: 5px solid rgb(192, 23, 169);}
+    #logo{
+        color:#f08804;font-size: 25px;
+    }
+    button{background-color: #f08804;}
+    a{color: white;margin-right: 100px;}

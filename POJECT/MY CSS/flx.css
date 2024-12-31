@@ -1,0 +1,20 @@
+body{
+    text-align: center; background-color: #dd8fc3;
+}
+
+div{border: 2px solid black;
+     width: 100px;
+     height: 100px;display: inline;
+}
+
+#container{width: 800px; 
+    height: 200px;
+    background-color: aquamarine;
+    display: flex; align-items: center;
+}
+
+#box1{background-color: red;}
+#box2{background-color: blue;}
+#box3{background-color: green;}
+#box4{background-color: yellow;}
+#box5{background-color: orange;}
