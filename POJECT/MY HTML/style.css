@@ -1,0 +1,161 @@
+/* h1{
+   color: rgb(255, 0, 0);
+   border: solid blue 10px;  
+}
+h2{
+    color: brown;
+}
+h3{
+    
+    color: blue;
+}
+p{
+    background-color: aquamarine; color: brown;
+}
+h4{
+    color: blueviolet;border: solid salmon 10px;
+}
+img{
+    width: 200px;
+}
+#box{
+    background-color: blue;
+    border:dotted solid gray 20px ;
+}
+#box2{
+    background-color: rgb(202, 28, 129);
+}   
+.heading{
+    color: rgb(33, 226, 107);
+}
+.new{
+    color: rgb(236, 170, 27);
+    background-color: rgb(43, 29, 238);
+    border: solid gold 5px;
+    
+}
+
+button{
+    background-color: pink;
+    border-radius: 10px;
+    border: solid gray 5px;
+    color: whitesmoke;
+}
+h1{
+    text-align: center;
+    text-transform: lowercase;
+    text-transform: uppercase;
+    /* text-transform: capitalize;
+} */
+
+
+/* div{
+    width: 50px;
+    height: 50px;
+    background-color: #00ff00;
+    border-radius: 20%;
+    border: 5px solid black;
+} */
+
+/* #circles{
+    width: 50px;
+    height: 175px;
+    background-color: black;
+    border: 5px solid red;
+    border-radius: 10px;
+    margin: 10px;
+   
+}
+    
+#R{
+    background-color: red;
+    width: 25px;
+    height: 25px;
+    border-radius: 50px;
+    margin: 12.5px;
+    margin-top: 5px;
+   
+    
+    
+}
+#Y{
+    background-color: yellow;
+    width: 25px;
+    height: 25px;
+    border-radius: 50px;
+    margin-left: 12.5px;
+}
+#G{
+   background-color: green;
+    width: 25px;
+    height: 25px;
+    border-radius: 50px;
+    margin-left: 12.5px;
+    
+}
+#R,#Y,#G{
+    margin-top: 5px;
+} */
+
+/* *{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+#navbar{
+    background-color: #0f1111;
+    height: 60px;
+    border: 3px solid red;
+    
+    
+}
+button{
+    background-color: #f08804;
+    border: 2px solid red;
+    border-radius: 3px;
+}
+#logo{ color: #f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+} */
+
+div{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+    background-color: aquamarine;
+    display: inline-block;
+}
+#parent{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border: 3px solid red;
+    background-image:url(lizard.jpg) ;
+    background-size: cover;
+}
+#parent2{
+    width: 200px;
+    height: 200px;
+    background-color: blanchedalmond;
+    border: 3px solid rgb(147, 11, 226, 0.2); 
+   
+}
+#parent3{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(212, 19, 132);
+    border: 3px solid rgb(24, 240, 240);
+}
+#parent4{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(212, 19, 132, 0.33);
+    border: 3px solid rgb(24, 240, 240);
+}  
+body{background-image: url(mu1.jpg);}

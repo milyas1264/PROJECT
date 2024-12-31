@@ -1,0 +1,32 @@
+# a = "Hello world!"
+# print(a)
+# print(a[-11])
+# a = "Hello world!"
+# print(len(a)) #out put =12
+
+# a = "Hello world!"
+# # print(a)
+# print(a[-12:-8])
+
+# a = "love"
+# b = "you"
+# print("a" + "loop " + "2" + "b" + "2") out put aloop 2b2
+# print(( a+ "///")*10) #output =  love///love///love///love///love///love///love///love///love///love///
+#memberships 
+# a = "Hello world!"
+# print("H" in a)  #True
+# print("H" not in a) # False
+# #Builtin function
+# a = "Hello world!"
+# print(len(a))       # output 
+# print(a.upper())
+# print(a.lower())
+# print(a.isupper())
+# print(a.islower())
+
+# output
+# 12
+# HELLO WORLD!
+# hello world!
+# False
+False
